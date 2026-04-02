@@ -1,2 +1,2 @@
 # SumanKomarlaAdinarayana-AITPA9662R-EcoSystemAutomationOfBusinessInfo-V1
-SumanKomarlaAdinarayana-AITPA9662R-EcoSystemAutomationOfBusinessInfo-V1 {Complete EcoSystem Of Business Automation Information}
+SumanKomarlaAdinarayana-AITPA9662R-EcoSystemAutomationOfBusinessInfo-V1 {Complete EcoSystem Automation Of Simple Business Information}
